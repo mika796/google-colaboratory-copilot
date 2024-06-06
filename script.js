@@ -1,6 +1,6 @@
 const generate = async (prompt) => {
     // Get your API key from storage
-    const key = "<YOUR OPENAI API KEY>";
+    const key = "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";
     const url = 'https://api.openai.com/v1/completions';
 
     // Call completions endpoint
